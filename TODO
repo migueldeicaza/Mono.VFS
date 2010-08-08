@@ -1,0 +1,14 @@
+
+* Asynchronous operation:
+
+	Worth supporting async operations, or should the user just use
+	async operations on his end?
+
+* Notifications:
+
+	Need a callback system to provide logins, passwords,
+	challenges, operation confirmations.
+
+* Other file systems
+
+* Cache for MountPoints
